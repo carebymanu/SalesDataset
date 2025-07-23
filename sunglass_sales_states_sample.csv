@@ -1,0 +1,501 @@
+State,Abbreviation,WeatherRanking,Affordability,Crime,Culture,Wellness,OverallRanking
+Maryland,MD,19,20,42,45,17,32
+Massachusetts,MA,2,12,37,5,15,1
+Maryland,MD,2,25,19,45,1,50
+Oregon,OR,38,32,9,48,30,32
+Washington,WA,29,1,32,34,36,6
+California,CA,49,4,42,30,49,23
+Washington,WA,34,38,8,26,14,15
+Oklahoma,OK,10,39,12,22,4,16
+North Carolina,NC,21,26,5,48,23,14
+Delaware,DE,37,32,3,33,46,35
+Alaska,AK,5,17,20,42,28,23
+Kansas,KS,28,22,8,44,35,26
+Georgia,GA,41,11,19,15,31,22
+North Dakota,ND,39,42,36,38,48,49
+Kentucky,KY,21,6,1,34,6,3
+Connecticut,CT,38,33,37,12,22,16
+South Dakota,SD,23,5,41,48,27,27
+Florida,FL,5,32,7,17,29,4
+Rhode Island,RI,11,38,31,28,28,43
+Wisconsin,WI,47,12,36,39,11,44
+Minnesota,MN,26,3,48,43,28,14
+Alaska,AK,41,22,21,19,46,27
+Minnesota,MN,19,19,2,11,40,49
+Alabama,AL,24,18,7,34,31,43
+North Carolina,NC,41,37,40,11,36,34
+New Mexico,NM,29,34,14,4,26,24
+New Hampshire,NH,21,12,35,35,50,4
+Oregon,OR,14,50,50,19,23,37
+Illinois,IL,46,1,15,19,33,10
+Wisconsin,WI,16,14,49,33,9,38
+Rhode Island,RI,18,16,22,28,47,4
+Alaska,AK,49,46,25,28,14,46
+Washington,WA,28,42,48,16,20,29
+Delaware,DE,15,35,41,6,16,16
+Oklahoma,OK,16,9,17,37,32,48
+Kentucky,KY,9,44,19,40,12,6
+Rhode Island,RI,35,46,49,37,44,45
+California,CA,49,39,36,28,26,11
+Nevada,NV,21,3,22,9,9,35
+Nevada,NV,6,26,48,18,43,23
+Oklahoma,OK,36,40,23,49,49,37
+New York,NY,10,36,43,33,37,39
+Nevada,NV,40,40,47,37,40,38
+California,CA,35,46,36,40,39,2
+Connecticut,CT,36,30,14,20,49,3
+Nevada,NV,13,26,11,21,39,9
+Alabama,AL,41,50,43,45,16,30
+Kentucky,KY,22,9,37,13,43,30
+Texas,TX,13,44,20,42,11,36
+Nebraska,NE,4,46,16,5,5,50
+Wisconsin,WI,29,12,42,26,15,36
+Idaho,ID,32,9,47,16,25,2
+Iowa,IA,16,34,15,29,20,2
+Connecticut,CT,9,47,2,39,2,28
+Alaska,AK,27,32,14,12,6,29
+Georgia,GA,34,36,3,47,22,43
+Louisiana,LA,7,21,50,25,35,18
+Minnesota,MN,36,9,24,10,49,46
+Alaska,AK,49,5,47,18,38,8
+Ohio,OH,20,10,23,32,48,36
+South Dakota,SD,28,39,29,15,50,5
+Oklahoma,OK,34,40,4,31,21,30
+Nevada,NV,29,13,20,31,1,11
+California,CA,3,17,42,15,25,45
+Washington,WA,41,50,10,23,50,12
+Minnesota,MN,1,43,36,19,12,12
+Wyoming,WY,9,15,25,15,15,15
+Tennessee,TN,48,30,41,42,9,49
+Washington,WA,34,45,34,34,15,26
+Texas,TX,45,35,38,2,5,43
+Iowa,IA,26,4,48,12,49,34
+West Virginia,WV,29,1,12,19,11,4
+Vermont,VT,6,44,39,10,29,23
+Michigan,MI,11,16,30,18,37,35
+Montana,MT,30,49,5,6,14,50
+South Dakota,SD,11,13,19,22,10,18
+Georgia,GA,37,28,36,49,39,36
+Arkansas,AR,15,43,8,2,46,48
+Tennessee,TN,22,46,36,44,7,9
+Colorado,CO,40,29,7,3,45,13
+Ohio,OH,1,26,38,4,38,5
+New Mexico,NM,32,34,46,33,22,18
+Minnesota,MN,10,31,5,19,21,40
+New Jersey,NJ,33,46,14,34,16,13
+Nevada,NV,48,13,15,10,20,42
+Oregon,OR,21,46,45,19,2,43
+Maryland,MD,36,49,13,48,18,24
+Michigan,MI,27,15,41,11,41,41
+Michigan,MI,29,18,38,48,13,39
+Alabama,AL,37,6,8,41,48,29
+Nevada,NV,3,40,12,33,22,5
+Arizona,AZ,32,34,20,16,17,4
+Massachusetts,MA,30,28,5,44,26,35
+Kansas,KS,1,22,18,30,45,13
+Minnesota,MN,4,17,39,14,25,43
+Washington,WA,29,15,30,24,3,5
+Utah,UT,17,2,15,47,40,6
+Alaska,AK,44,45,4,43,28,3
+South Dakota,SD,25,19,19,37,15,16
+Vermont,VT,18,22,33,19,22,23
+California,CA,42,45,26,1,1,25
+California,CA,31,39,8,7,47,18
+Oregon,OR,42,39,36,20,24,47
+Kentucky,KY,17,38,35,38,45,35
+Florida,FL,41,48,43,38,34,38
+Colorado,CO,31,40,34,46,24,20
+Maryland,MD,4,3,47,40,50,6
+Michigan,MI,23,47,49,7,23,44
+Georgia,GA,43,35,4,17,1,22
+Missouri,MO,32,40,6,21,8,45
+Tennessee,TN,23,36,1,43,44,13
+Alaska,AK,26,26,37,29,21,25
+Wisconsin,WI,4,11,5,45,17,7
+Texas,TX,37,26,4,6,47,14
+Mississippi,MS,39,14,44,34,43,28
+Iowa,IA,39,16,18,23,45,16
+Indiana,IN,15,21,41,13,28,25
+Washington,WA,30,8,43,6,25,22
+Maine,ME,34,45,2,33,34,11
+Maryland,MD,30,39,33,8,2,4
+New York,NY,28,42,7,41,47,48
+New Jersey,NJ,10,30,41,28,19,19
+Delaware,DE,47,22,22,3,4,41
+Michigan,MI,10,21,25,6,16,12
+Mississippi,MS,44,21,40,25,20,31
+Kansas,KS,8,31,47,19,3,25
+Illinois,IL,36,21,42,24,21,5
+Ohio,OH,6,19,10,14,1,47
+Utah,UT,47,35,13,8,18,21
+Vermont,VT,10,3,43,18,17,38
+Utah,UT,27,36,6,37,33,34
+Iowa,IA,10,20,10,19,19,10
+Nevada,NV,8,29,30,17,6,32
+Alaska,AK,2,17,24,20,45,22
+Alabama,AL,44,16,32,49,11,3
+New York,NY,38,19,44,46,43,5
+Wyoming,WY,10,25,9,49,50,18
+West Virginia,WV,48,41,13,39,7,39
+South Dakota,SD,40,46,37,42,20,46
+Wyoming,WY,21,46,49,6,27,39
+Massachusetts,MA,5,23,16,24,48,32
+Missouri,MO,18,5,22,5,1,40
+Oregon,OR,17,24,35,38,41,41
+Arkansas,AR,49,18,28,36,31,15
+Pennsylvania,PA,18,2,3,14,1,16
+New York,NY,44,42,5,29,7,12
+Texas,TX,13,45,49,7,29,44
+West Virginia,WV,16,23,25,17,19,44
+Vermont,VT,1,11,35,15,50,22
+West Virginia,WV,44,4,9,49,4,31
+Vermont,VT,32,23,7,26,13,2
+Wisconsin,WI,9,15,17,39,40,29
+Indiana,IN,47,35,49,7,44,8
+Nebraska,NE,29,44,8,19,26,49
+Kansas,KS,24,29,49,44,43,41
+West Virginia,WV,4,36,5,32,39,42
+Hawaii,HI,3,41,43,26,22,50
+Montana,MT,25,14,13,45,23,44
+New Jersey,NJ,50,27,44,6,49,22
+Washington,WA,9,5,7,9,48,30
+Kentucky,KY,3,14,37,50,22,25
+Massachusetts,MA,23,45,2,44,26,18
+Louisiana,LA,9,48,40,4,2,50
+New Hampshire,NH,5,3,6,15,22,45
+Texas,TX,11,8,45,7,44,17
+Arkansas,AR,14,44,11,40,7,1
+Missouri,MO,36,48,31,5,33,8
+Massachusetts,MA,35,15,7,39,9,11
+Massachusetts,MA,44,25,4,17,4,7
+Nebraska,NE,12,18,14,24,38,27
+South Dakota,SD,6,37,34,9,23,32
+Arkansas,AR,13,27,26,36,40,37
+Nebraska,NE,24,38,35,18,15,4
+Michigan,MI,21,16,19,14,45,43
+Minnesota,MN,35,38,8,13,40,7
+Utah,UT,47,20,42,17,40,29
+Alabama,AL,8,35,27,16,10,39
+Alaska,AK,43,5,10,5,36,1
+New Jersey,NJ,7,16,32,39,31,43
+Utah,UT,31,39,45,35,20,23
+Colorado,CO,10,20,24,25,7,8
+Delaware,DE,6,5,10,34,43,33
+Kentucky,KY,43,46,1,18,11,31
+Oklahoma,OK,34,16,9,9,25,25
+New Jersey,NJ,25,19,19,47,49,27
+Massachusetts,MA,50,27,28,22,48,39
+New Mexico,NM,26,42,40,9,36,26
+Nevada,NV,42,28,21,36,48,21
+New Jersey,NJ,24,22,19,12,1,28
+Arizona,AZ,22,21,49,39,44,25
+Colorado,CO,39,12,3,43,10,35
+Florida,FL,36,34,31,47,6,43
+Iowa,IA,39,4,41,43,28,18
+Tennessee,TN,20,43,28,38,11,15
+New York,NY,7,36,28,42,24,41
+Virginia,VA,22,13,25,46,23,9
+South Carolina,SC,26,32,21,5,40,24
+Nebraska,NE,33,25,39,31,31,44
+Alabama,AL,50,22,17,37,34,40
+Connecticut,CT,8,35,39,32,49,42
+Kentucky,KY,27,6,25,8,9,27
+Hawaii,HI,40,26,39,1,29,14
+Massachusetts,MA,34,35,48,44,50,35
+Utah,UT,44,35,48,26,41,9
+Nevada,NV,48,16,19,20,49,27
+North Dakota,ND,8,13,29,28,3,43
+North Carolina,NC,9,43,42,39,6,23
+Wisconsin,WI,46,49,49,41,20,7
+New Hampshire,NH,31,11,49,19,26,24
+Alabama,AL,19,16,18,41,11,18
+Alabama,AL,15,22,46,12,25,13
+Louisiana,LA,13,21,23,47,47,47
+Florida,FL,42,29,27,7,18,30
+Kansas,KS,29,35,10,34,23,27
+New York,NY,2,25,47,48,31,28
+New Jersey,NJ,21,27,17,35,49,31
+South Carolina,SC,39,9,5,38,36,37
+Alabama,AL,10,37,28,23,40,18
+Indiana,IN,39,23,49,13,44,39
+Wyoming,WY,43,10,43,30,32,15
+Maine,ME,13,46,21,49,6,2
+Ohio,OH,21,35,8,6,2,41
+Georgia,GA,18,19,46,45,8,44
+Ohio,OH,44,26,26,32,31,17
+Hawaii,HI,35,32,3,5,38,13
+Indiana,IN,19,30,39,29,35,41
+Washington,WA,27,2,2,4,37,33
+Mississippi,MS,8,10,7,18,44,17
+West Virginia,WV,17,33,10,19,22,34
+Mississippi,MS,13,45,48,3,33,44
+Maine,ME,12,17,24,47,23,31
+Arizona,AZ,22,36,12,31,23,48
+Montana,MT,32,48,25,5,18,50
+Tennessee,TN,18,9,46,3,27,46
+West Virginia,WV,13,13,8,9,14,48
+Louisiana,LA,40,9,33,42,13,31
+Kansas,KS,6,8,47,24,25,13
+Montana,MT,47,6,25,28,17,36
+Wisconsin,WI,37,19,8,15,37,8
+Arkansas,AR,1,9,7,49,27,25
+New Hampshire,NH,10,39,36,14,30,31
+Ohio,OH,2,12,30,19,42,10
+New Mexico,NM,7,21,23,4,22,16
+Pennsylvania,PA,36,48,5,44,49,42
+New Mexico,NM,28,7,47,23,37,49
+Rhode Island,RI,44,36,48,41,38,10
+Oklahoma,OK,17,10,24,43,50,27
+Nebraska,NE,16,46,34,18,15,7
+West Virginia,WV,47,1,2,7,30,4
+Utah,UT,9,43,46,41,7,38
+Oregon,OR,33,45,45,47,20,26
+Colorado,CO,21,38,11,13,23,35
+New York,NY,17,23,1,24,23,23
+Ohio,OH,9,6,20,45,16,45
+New York,NY,8,13,35,28,48,29
+Mississippi,MS,39,18,18,30,28,42
+Delaware,DE,48,9,7,40,37,47
+Indiana,IN,17,49,25,3,34,30
+Wisconsin,WI,28,48,38,11,44,40
+Kentucky,KY,10,48,13,36,16,41
+North Dakota,ND,13,31,27,49,9,41
+New Mexico,NM,21,37,19,21,42,18
+Delaware,DE,3,22,13,3,24,42
+Tennessee,TN,15,3,22,48,18,21
+Maryland,MD,44,26,27,39,42,44
+Arizona,AZ,2,25,14,32,39,40
+Massachusetts,MA,14,38,14,33,10,47
+Idaho,ID,10,12,26,1,15,50
+Washington,WA,17,9,9,1,27,25
+Arkansas,AR,13,14,20,39,41,34
+Utah,UT,30,27,35,20,21,20
+Hawaii,HI,32,38,10,2,18,43
+Vermont,VT,31,26,43,42,15,27
+Maine,ME,18,20,18,40,23,36
+Mississippi,MS,4,32,50,24,23,19
+Indiana,IN,30,15,39,16,36,1
+Wyoming,WY,16,12,15,18,47,43
+Virginia,VA,4,22,2,10,43,5
+Virginia,VA,8,44,13,15,29,42
+Rhode Island,RI,22,39,34,48,4,44
+Wisconsin,WI,33,12,15,31,34,6
+Michigan,MI,14,42,22,11,22,17
+Oregon,OR,6,15,37,13,32,14
+Michigan,MI,27,30,16,8,19,32
+Minnesota,MN,30,10,26,13,29,45
+Utah,UT,5,37,18,33,5,49
+Rhode Island,RI,45,3,27,30,36,14
+Arkansas,AR,32,20,14,18,27,23
+Arkansas,AR,48,35,50,44,28,35
+Mississippi,MS,19,10,42,4,49,27
+Missouri,MO,13,18,13,32,27,17
+New York,NY,11,38,50,4,25,19
+Hawaii,HI,13,19,19,4,30,28
+Wisconsin,WI,36,23,38,38,2,16
+Louisiana,LA,12,20,28,47,22,10
+Arizona,AZ,20,2,4,37,36,39
+Arkansas,AR,22,49,50,36,22,19
+Indiana,IN,42,47,26,16,33,7
+Nebraska,NE,9,31,41,49,18,35
+Indiana,IN,36,46,3,33,43,47
+New Hampshire,NH,4,2,38,34,6,25
+Florida,FL,34,46,11,5,41,17
+Iowa,IA,14,17,13,7,19,26
+New York,NY,17,50,19,16,48,24
+Kansas,KS,49,47,21,49,4,35
+Arkansas,AR,48,41,42,38,24,12
+Idaho,ID,31,11,23,13,21,15
+Arizona,AZ,26,18,34,15,38,11
+Oregon,OR,45,19,40,41,45,15
+Tennessee,TN,1,29,14,48,35,49
+Pennsylvania,PA,4,20,4,40,31,50
+New Jersey,NJ,23,40,12,49,50,31
+West Virginia,WV,8,6,18,28,33,47
+Illinois,IL,48,26,47,38,16,15
+Wyoming,WY,25,49,30,20,41,5
+Oklahoma,OK,26,21,12,22,38,14
+Louisiana,LA,6,30,18,28,1,33
+Oklahoma,OK,20,48,48,44,28,11
+New York,NY,46,17,50,31,7,50
+Alabama,AL,43,40,45,32,50,13
+Hawaii,HI,25,9,9,30,27,38
+Rhode Island,RI,2,44,50,24,42,36
+Colorado,CO,23,27,1,12,40,20
+Louisiana,LA,42,1,9,27,4,28
+Nebraska,NE,45,3,5,37,12,32
+Kentucky,KY,12,17,33,45,5,11
+Arizona,AZ,21,19,44,18,10,11
+Utah,UT,43,22,45,15,34,43
+North Carolina,NC,23,4,9,20,27,47
+Hawaii,HI,11,4,7,48,19,18
+Oklahoma,OK,3,12,7,36,33,23
+South Dakota,SD,50,25,44,45,15,18
+Montana,MT,42,4,18,38,45,5
+Oregon,OR,16,21,14,22,31,20
+New Mexico,NM,45,46,50,42,34,16
+Wisconsin,WI,15,49,40,15,20,47
+Delaware,DE,24,25,25,26,30,27
+Arkansas,AR,39,24,43,20,49,48
+Illinois,IL,40,41,9,26,43,37
+New Mexico,NM,38,17,32,34,13,8
+Rhode Island,RI,4,50,47,23,26,19
+Maryland,MD,22,18,15,26,20,33
+Kansas,KS,2,33,4,39,25,36
+South Carolina,SC,36,22,21,36,18,12
+Iowa,IA,41,26,17,35,1,19
+Minnesota,MN,45,3,46,32,33,15
+Illinois,IL,28,12,6,45,10,30
+Louisiana,LA,35,50,14,21,22,20
+Louisiana,LA,16,19,50,43,25,50
+Oklahoma,OK,26,4,19,49,3,30
+Delaware,DE,9,37,47,37,50,7
+Alaska,AK,12,1,12,3,38,46
+Arizona,AZ,40,28,35,40,34,6
+Washington,WA,18,27,49,30,8,47
+Louisiana,LA,29,31,35,17,30,34
+Alaska,AK,36,28,18,7,24,5
+Hawaii,HI,31,25,43,35,7,2
+Massachusetts,MA,16,11,42,46,39,4
+Missouri,MO,24,45,27,38,49,3
+Georgia,GA,37,35,37,36,44,37
+Kentucky,KY,11,39,20,9,41,38
+New York,NY,8,31,5,1,40,30
+Iowa,IA,46,37,41,25,10,47
+Oklahoma,OK,44,22,2,12,15,19
+Wisconsin,WI,21,45,32,27,9,31
+Iowa,IA,25,29,7,13,5,40
+Pennsylvania,PA,43,9,35,15,29,18
+Idaho,ID,24,20,16,40,41,42
+West Virginia,WV,4,46,20,42,2,50
+Indiana,IN,13,36,6,47,8,26
+Oklahoma,OK,33,10,26,10,49,40
+North Carolina,NC,5,6,31,3,47,22
+North Carolina,NC,49,4,25,44,24,25
+Connecticut,CT,21,48,12,25,40,27
+Florida,FL,48,37,17,20,44,17
+Oregon,OR,42,15,30,19,5,6
+Kansas,KS,4,39,22,32,32,30
+Nebraska,NE,6,17,12,29,2,48
+Arizona,AZ,1,31,33,33,38,46
+Arizona,AZ,29,16,37,45,32,26
+Utah,UT,50,41,27,36,45,35
+Florida,FL,39,37,8,31,9,16
+Ohio,OH,44,3,39,8,8,9
+Maine,ME,5,5,17,46,4,19
+Alabama,AL,24,18,38,4,33,38
+Vermont,VT,8,22,3,36,35,15
+Hawaii,HI,14,21,31,50,9,17
+Maryland,MD,42,9,6,17,11,5
+Idaho,ID,32,10,39,15,12,9
+Delaware,DE,4,20,40,2,41,2
+Oregon,OR,30,50,42,41,20,41
+Florida,FL,11,15,24,17,12,48
+Vermont,VT,43,30,18,7,43,6
+Hawaii,HI,48,18,29,14,43,27
+Kansas,KS,26,11,20,41,23,11
+North Carolina,NC,29,7,35,5,48,35
+California,CA,39,40,37,32,43,47
+Mississippi,MS,3,17,9,16,30,25
+Hawaii,HI,28,43,28,14,12,25
+New Mexico,NM,23,37,50,9,8,7
+Ohio,OH,20,7,4,45,27,14
+Nebraska,NE,4,37,5,4,1,15
+Nebraska,NE,27,4,44,26,16,5
+Kentucky,KY,43,32,35,28,5,43
+South Carolina,SC,1,19,6,10,22,4
+Kentucky,KY,26,16,10,8,21,13
+Wyoming,WY,2,38,33,43,34,21
+Idaho,ID,39,19,21,43,20,34
+Kansas,KS,28,49,19,24,42,25
+Rhode Island,RI,30,1,10,47,32,46
+Louisiana,LA,7,40,4,11,43,43
+North Carolina,NC,15,48,27,47,29,19
+Texas,TX,41,25,25,13,8,24
+Virginia,VA,5,44,14,45,27,32
+Idaho,ID,13,12,11,33,15,21
+Oklahoma,OK,22,1,22,8,26,37
+Oregon,OR,39,44,28,47,20,12
+Maryland,MD,19,26,13,16,39,29
+Pennsylvania,PA,41,50,18,20,15,34
+Michigan,MI,30,2,18,31,24,8
+New York,NY,15,3,6,49,6,42
+Oklahoma,OK,38,25,4,44,33,27
+North Dakota,ND,30,10,44,47,43,25
+Wisconsin,WI,36,14,11,11,4,20
+Maryland,MD,46,35,34,11,33,18
+Connecticut,CT,11,9,31,2,47,8
+Maine,ME,9,34,49,43,28,21
+Delaware,DE,19,32,39,43,44,40
+Rhode Island,RI,18,20,27,32,9,43
+Tennessee,TN,33,27,35,35,2,37
+Maryland,MD,32,44,38,15,16,20
+North Dakota,ND,17,20,44,7,4,3
+Mississippi,MS,34,42,22,2,42,30
+Connecticut,CT,9,34,5,4,3,35
+Montana,MT,45,12,35,40,11,22
+New Mexico,NM,46,25,35,32,10,36
+Kentucky,KY,14,2,43,18,26,4
+Alabama,AL,21,36,45,15,39,37
+Texas,TX,30,21,29,23,15,11
+North Dakota,ND,7,49,43,27,27,5
+Maryland,MD,34,33,43,41,30,47
+Vermont,VT,13,22,8,28,37,2
+Missouri,MO,15,40,13,47,18,34
+Nevada,NV,12,26,21,7,38,39
+Tennessee,TN,18,34,27,13,21,46
+Arizona,AZ,30,18,44,6,48,14
+Arkansas,AR,27,36,39,37,47,32
+Florida,FL,12,15,38,3,28,26
+Wisconsin,WI,17,12,37,19,20,5
+Wisconsin,WI,25,40,20,29,48,25
+Wisconsin,WI,20,35,11,1,46,14
+Minnesota,MN,38,33,9,39,3,45
+Wisconsin,WI,36,12,28,28,34,16
+Maryland,MD,11,38,31,1,37,44
+Minnesota,MN,11,42,13,7,16,40
+New Hampshire,NH,4,17,8,18,13,47
+Iowa,IA,14,36,32,8,42,39
+Montana,MT,46,8,46,43,29,1
+Georgia,GA,3,21,18,47,8,20
+Montana,MT,48,22,13,33,37,25
+Colorado,CO,44,20,28,22,36,31
+Wisconsin,WI,26,10,13,15,31,21
+North Carolina,NC,22,50,47,29,47,31
+Maryland,MD,7,29,3,24,48,46
+Virginia,VA,26,50,11,13,44,22
+New York,NY,45,49,14,22,14,46
+New Jersey,NJ,7,8,28,45,35,32
+New Mexico,NM,50,16,40,33,3,1
+Illinois,IL,6,50,3,2,10,10
+Kansas,KS,3,14,46,43,42,6
+Idaho,ID,45,24,7,42,16,19
+Tennessee,TN,1,50,22,27,12,2
+Rhode Island,RI,23,26,26,34,34,13
+New York,NY,45,31,43,27,29,39
+Kentucky,KY,5,50,41,41,15,21
+West Virginia,WV,34,49,37,32,32,23
+Ohio,OH,8,37,50,50,47,12
+Alabama,AL,11,13,39,12,44,19
+Hawaii,HI,14,36,20,30,45,49
+West Virginia,WV,5,11,22,8,31,38
+Utah,UT,13,45,39,26,26,10
+Florida,FL,13,14,9,48,33,29
+Indiana,IN,20,15,11,2,26,32
+Wisconsin,WI,36,12,23,11,36,27
+Montana,MT,50,22,37,36,23,26
+Kansas,KS,7,23,40,15,49,27
+Massachusetts,MA,44,22,14,16,16,29
+New Hampshire,NH,21,23,6,31,24,15
+Wyoming,WY,43,29,29,3,37,24
+Alaska,AK,35,28,15,43,32,44
+Kentucky,KY,2,9,40,40,21,5
+South Carolina,SC,15,50,16,1,32,42
+Ohio,OH,8,5,11,11,8,47
+Pennsylvania,PA,29,46,11,14,2,21
+Iowa,IA,49,4,45,31,45,50
+Delaware,DE,44,15,26,22,40,16
+Ohio,OH,6,20,18,29,32,48
+Florida,FL,29,11,37,7,23,26
+South Dakota,SD,44,2,46,34,44,2
+Louisiana,LA,20,8,40,20,41,3
